@@ -1,0 +1,19 @@
+common fixes
+
+a 5 in a series of letters is most likely a õ 
+
+w&nik - wãnik
+fi5n - ñõn  
+nSn - ñõn \case sensitive
+n5n - ñõn
+a5 - aõ
+tSmak - tõmak
+t5mak - tõmak
+b5k - bõk
+einwSt - einwõt
+einw5t - einwõt
+m5ke - mõke
+wab5nb5n - wabõnbõn
+k5ra - kõra
+k5m5nm5n - kõmõnmõn
+w5nan - wõnan
