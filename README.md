@@ -3,11 +3,11 @@
 ## Translation Information
 
 - **Title**: The New Testament in Marshallese
-- **Vernacular Title**: Kalimur Ekal an ar iroij im dri lomor Jisos Kraist.
-- **Vernacular Lang**: ᓱᖽᐧᖿ
-- **English Language Name**: <a href="https://en.wikipedia.org/wiki/Blackfoot_language">Blackfoot</a>
-- **Glottolog Code**: <a href="http://glottolog.org/resource/languoid/id/siks1238">siks1238</a>
-- **Iso Code**: <a href="http://www.ethnologue.com/language/bla">bla</a>
+- **Vernacular Title**: Testament Sefa An Samol O Ran Amanau
+- **Vernacular Lang**: Ebon
+- **English Language Name**: <a href="https://en.wikipedia.org/wiki/Marshallese_language">Marshallese</a>
+- **Glottolog Code**: <a href="http://glottolog.org/resource/languoid/id/mars1254">mars1254</a>
+- **Iso Code**: <a href="http://www-01.sil.org/iso639-3/documentation.asp?id=mah">mah</a>
 - **Abbreviation**: <a href="https://find.bible/MAHABS">MAHABS</a>
 - **Date**: 1914
 - **Publisher**: American Bible Society
